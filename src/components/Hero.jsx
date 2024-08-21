@@ -22,7 +22,7 @@ const Hero = () => {
     >
       <div className='text-center'>
         <h1 className='text-5xl font-bold text-lightest-slate mb-4'>
-          Brittany Chiang
+          Tatenda Mandiudza
         </h1>
         <h2 className='text-3xl text-green mb-6'>
           <span>{text}</span>
@@ -32,7 +32,7 @@ const Hero = () => {
           I build pixel-perfect, engaging, and accessible digital experiences.
         </p>
         <motion.a
-          href='/path-to-your-cv.pdf'
+          href={CV}
           download
           className='bg-green text-navy px-6 py-3 rounded-full font-semibold hover:bg-light-green transition duration-300'
           whileHover={{ scale: 1.05 }}
