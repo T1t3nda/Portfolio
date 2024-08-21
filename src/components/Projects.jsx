@@ -50,7 +50,7 @@ const projectsData = [
   {
     title: "Github Search User Profile",
     description:
-      "This is a responsive website for searching github user profiles made with Javascript using open-weather API. It is my second project using API.",
+      "This is a responsive website for searching github user profiles made with Javascript using Github API. It is my second project using API.",
     tech: ["VS Code", "React", "Tailwind", "Github API", "javascript"],
     image: SearchUser,
     github: "https://github.com/T1t3nda/search-user-app",
