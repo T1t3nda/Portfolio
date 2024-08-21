@@ -20,18 +20,10 @@ const About = forwardRef((props, ref) => {
         <div className='flex flex-col md:flex-row items-center'>
           <div className='md:w-2/3 mb-8 md:mb-0'>
             <p className='text-slate mb-4'>
-              Hello! My name is Brittany and I enjoy creating things that live
-              on the internet. My interest in web development started back in
-              2012 when I decided to try editing custom Tumblr themes — turns
-              out hacking together a custom reblog button taught me a lot about
-              HTML & CSS!
+              Hello! My name is Tatenda Mandiuda, and I am a passionate technology enthusiast with a degree in Computer Information Systems from the University of the Free State. Throughout my academic journey, I developed a strong foundation in programming, data management, and system analysis, equipping me with the skills to tackle complex challenges in the ever-evolving tech landscape. 
             </p>
             <p className='text-slate mb-4'>
-              Fast-forward to today, and I've had the privilege of working at an
-              advertising agency, a start-up, a huge corporation, and a
-              student-led design studio. My main focus these days is building
-              accessible, inclusive products and digital experiences at
-              Upstatement for a variety of clients.
+              Throughout my journey, I have immersed myself in learning various programming languages and tools to enhance my skills as a developer. From mastering the fundamentals of C# and Javascript to diving into frameworks like React and ASP.NET, each new language has broadened my understanding of software development and empowered me to tackle a diverse range of projects..
             </p>
             <p className='text-slate'>
               Here are a few technologies I've been working with recently:
