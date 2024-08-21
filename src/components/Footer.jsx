@@ -47,7 +47,7 @@ const Footer = () => {
             <i className='fab fa-twitter'></i>
           </a>
         </div>
-        <p className='text-slate text-sm'>Designed & Built by Your Name</p>
+        <p className='text-slate text-sm'>Designed & Built by Tatenda Mandiudza</p>
       </div>
     </footer>
   )
