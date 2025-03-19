@@ -10,7 +10,7 @@ import tesla from "../assets/projects/tesla.png"
 import Todo from "../assets/projects/Todo.png"
 import todos from "../assets/projects/todos.png"
 import weatherApp from "../assets/projects/weatherApp.png"
-import ECommerceAPI from "../assets/projects/Capture.PNG"
+import ECommerceAPI from "../assets/projects/ecommerce.png"
 
 const projectsData = [
     {
