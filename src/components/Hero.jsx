@@ -2,7 +2,7 @@
 import React from "react"
 import { motion } from "framer-motion"
 import { useTypewriter, Cursor } from "react-simple-typewriter"
-import CV from "../assets/MandiudzaTatenda.pdf"
+import CV from "../assets/MandiudzaTatendaCV.pdf"
 
 const Hero = () => {
   const [text] = useTypewriter({
