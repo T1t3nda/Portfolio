@@ -10,8 +10,18 @@ import tesla from "../assets/projects/tesla.png"
 import Todo from "../assets/projects/Todo.png"
 import todos from "../assets/projects/todos.png"
 import weatherApp from "../assets/projects/weatherApp.png"
+import ECommerceAPI from "../assets/projects/Capture.png"
 
 const projectsData = [
+  {
+  title: "E-Commerce API",
+  description:
+    "Developed a robust RESTful E-Commerce API with .NET 9 following Clean Architecture principles. Features include product management, shopping cart functionality, order processing, and role-based authorization.",
+  tech: [".NET 9", "Entity Framework Core", "ASP.NET Core Identity", "SQL Server"],
+  image: ECommerceAPI,
+  github: "https://github.com/T1t3nda/ECommerceAPI",
+  live: "",
+}
   {
     title: "Agent Marketing",
     description:
