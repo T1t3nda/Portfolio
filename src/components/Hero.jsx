@@ -33,7 +33,7 @@ const Hero = () => {
         </p>
         <motion.a
           href={CV}
-          download
+          download="MandiudzaTatendaCV.pdf"
           className='bg-green text-navy px-6 py-3 rounded-full font-semibold hover:bg-light-green transition duration-300'
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
